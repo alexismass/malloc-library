@@ -1,6 +1,6 @@
 ##
-## EPITECH PROJECT, 2019
-## makefile
+## EPITECH PROJECT, 2021
+## Makefile
 ## File description:
 ## desc
 ##
